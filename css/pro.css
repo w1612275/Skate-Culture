@@ -1,5 +1,5 @@
 body {
-     background-image: url('https://i.ytimg.com/vi/X9tMocUR-80/maxresdefault.jpg')
+     background-image: url('https://img00.deviantart.net/4cce/i/2012/129/8/2/daewon_song_by_franciumisgerman-d4z25vy.jpg')
     }   
 .bio-text {
   background-color: white;
@@ -7,7 +7,12 @@ body {
 }
 
 .bg-1 { 
-    background-color: #333; /* Grey */
+    background-color: #FF362D; /* Red */
+    color: #ffffff;
+    height: 300px
+  }
+.bg-2 { 
+    background-image: url('http://archive.youngwritersproject.org/files/13-guy-skateboarding-old-store-black-white.jpg'); /* Red */
     color: #ffffff;
     height: 300px
   }

@@ -175,8 +175,8 @@ https://upload.wikimedia.org/wikipedia/commons/b/be/Film_strip.jpg
   font-size: 70px;
   color: #fff;
   position: relative; 
-  letter-spacing: 1.2px;
-  animation: title-animation 4s 3s linear infinite;
+  letter-spacing: -1.3px;
+  /*animation: title-animation 4s 3s linear infinite;*/
 }
 
 @keyframes title-animation {
