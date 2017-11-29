@@ -47,6 +47,8 @@ body {
 
 .navbar li:hover {
   background-color: #111;
+h1 {
+   position: center;
 }
 h3 {
     display: block;
