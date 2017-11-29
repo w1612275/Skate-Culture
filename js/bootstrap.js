@@ -42,6 +42,9 @@ if (typeof jQuery === 'undefined') {
   Alert.VERSION = '3.3.7'
 
   Alert.TRANSITION_DURATION = 150
+  $('#myCarousel').on('slide.bs.carousel', function () {
+  // do something…
+})
 
   Alert.prototype.close = function (e) {
     var $this    = $(this)

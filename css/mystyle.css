@@ -141,15 +141,18 @@ https://upload.wikimedia.org/wikipedia/commons/b/be/Film_strip.jpg
 }
 
 .jumbotron {
-  background-color: #FF362D !important;
+  padding: inherit;
+  border: 10px;
+  border-bottom-color: white;
+  background-color: transparent;
   position: relative; 
 
   /*position: absolute; */
   width: 50%;
   left: 50%;
   top: 50%;
-  bottom: auto;
-  right: auto;
+  bottom: 50%;
+  right: 50%;
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
@@ -158,24 +161,25 @@ https://upload.wikimedia.org/wikipedia/commons/b/be/Film_strip.jpg
 }
 
 .jumbotron .jumbo-container {
-  position: relative;
+  position: center;
   width: 100%;
+  margin-bottom: auto;
+  border-color: aliceblue;    
   margin: auto;
   text-align: center;
-  overflow: hidden;
+  
   line-height: 80px;
   height: 80px;  
 }
 
 .jumbotron .jumbo-container .main-title {
   display: block;
-  font-family: 800 70px 'Helvetica, Arial, sans-serif;';
+  font-family: 'Oxygen', sans-serif;
   font-weight: bold;
-  font-style: italic;
-  font-size: 70px;
+  font-size: 100px;
   color: #fff;
-  position: relative; 
-  letter-spacing: -1.3px;
+   
+  letter-spacing: -1.0px;
   /*animation: title-animation 4s 3s linear infinite;*/
 }
 

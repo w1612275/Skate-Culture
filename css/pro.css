@@ -7,7 +7,7 @@ body {
 }
 
 .bg-1 { 
-    background-color: #FF362D; /* Red */
+    background-color: #333; /* Red */
     color: #ffffff;
     height: 300px
   }
