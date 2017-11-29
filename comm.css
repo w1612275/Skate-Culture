@@ -1,0 +1,83 @@
+   
+.bio-text {
+  background-color: white;
+  
+}
+body {
+    background-image: url(assets/vans.jp)
+}
+
+.bg-1 { 
+    background-color: #FF362D; /* Red */
+    color: #ffffff;
+    height: 300px;
+    width: relative;   
+  }
+.bg-2 { 
+    background-image: url('http://archive.youngwritersproject.org/files/13-guy-skateboarding-old-store-black-white.jpg'); /* Red */
+    color: #ffffff;
+    height: 300px;
+    width: relative;    
+  }
+body {
+    background-image: url('http://a.espncdn.com/photo/2013/1025/as_skate_Cunningham_2048.jpg')
+}
+.jumbotron .jumbo-container .main-title {
+  display: block;
+  font-family: 800 70px 'Helvetica, Arial, sans-serif;';
+  font-weight: bold;
+  font-style: italic;
+  font-size: 65px;
+  color: #fff;
+  position: relative; 
+  letter-spacing: -1.3px;
+  animation: title-animation 4s 3s linear infinite;
+}
+.navbar {
+  font-family: 800 70px 'Helvetica, Arial, sans-serif;';
+  font-weight: 300;
+  font-style: italic;   
+  letter-spacing: 1.2px;
+  opacity: .9;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar li:hover {
+  background-color: #111;
+}
+h3 {
+    display: block;
+    font-family: 800 300px 'Helvetica, Arial, sans-serif;';
+    font-weight: bold;
+    font-style: italic;
+    font-size: 70px;
+    color: #fff;
+    position: relative; 
+    letter-spacing: -1.3px;
+    margin-top: 12.5%;
+}
+
+h2 {
+    display: block;
+    font-family: 800 300px 'Helvetica, Arial, sans-serif;';
+    font-weight: bold;
+    /*font-style: italic;*/
+    
+    color: #FF362D;
+    position: relative; 
+    letter-spacing: -1.3px;
+    margin-top: 12.5%;
+}
+
+iframe {
+    margin-left: 100px;
+}
+.row {
+    margin-left: 100px;
+}
+.myCarousel {
+    margin-top: 100px
+}
