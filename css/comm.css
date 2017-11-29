@@ -47,9 +47,7 @@ body {
 
 .navbar li:hover {
   background-color: #111;
-h1 {
-   position: center;
-}
+
 h3 {
     display: block;
     font-family: 800 300px 'Helvetica, Arial, sans-serif;';
